@@ -21,7 +21,7 @@ repository               : "PierreRouge/PierreRouge.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/photo_pierre.jpg"
+  avatar           : "images/pierre.png"
   name             : "Pierre Rougé"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student at CRESTIC (Reims) and CREATIS (Lyon) laboratories."
